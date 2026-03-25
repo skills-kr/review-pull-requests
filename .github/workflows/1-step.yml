@@ -29,10 +29,10 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: 응답 템플릿 가져오기
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: skills-kr/exercise-toolkit
           path: exercise-toolkit
