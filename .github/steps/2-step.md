@@ -1,16 +1,16 @@
-## Step 2: Assign yourself
+## 2단계: 본인을 담당자로 지정하기
 
-_Great job opening that pull request! :wave:_
+_풀 리퀘스트를 잘 열었습니다! :wave:_
 
-#### What is an assignee?
+#### 담당자(Assignee)란?
 
-A **pull request assignee** is the person (or persons) most familiar with the proposed changes.
-It's a simple mechanism for keeping track of who to contact for questions.
+**풀 리퀘스트 담당자**는 제안된 변경 사항에 가장 익숙한 사람(또는 사람들)입니다.
+질문이 있을 때 누구에게 연락해야 하는지 추적하는 간단한 메커니즘입니다.
 
-### :keyboard: Activity: Assign yourself
+### :keyboard: 실습: 본인을 담당자로 지정하기
 
-1. Navigate back to the created pull request if you are not on it.
+1. 생성한 풀 리퀘스트로 돌아가세요 (이미 해당 페이지에 있지 않은 경우).
 
-1. On the right side, under **Assignees**, click the **assign yourself** text.
+1. 오른쪽의 **Assignees** 아래에서 **assign yourself** 텍스트를 클릭하세요.
 
-1. After assigning yourself, Mona will check your progress and share the next steps.
+1. 본인을 담당자로 지정하면, Mona가 진행 상황을 확인하고 다음 단계를 안내합니다.

@@ -1,15 +1,15 @@
-## Step 6: Merge your pull request
+## 5단계: 풀 리퀘스트 병합하기
 
-_Almost done!_ :heart:
+_거의 다 됐습니다!_ :heart:
 
-With our reviews collected and feedback implemented, it's time to merge the changes.
+리뷰를 수집하고 피드백을 반영했으니, 이제 변경 사항을 병합할 차례입니다.
 
-### :keyboard: Activity: Merge your pull request
+### :keyboard: 실습: 풀 리퀘스트 병합하기
 
-1. In the pull request navigation, select the **Conversation** tab.
+1. 풀 리퀘스트 내비게이션에서 **Conversation** 탭을 선택하세요.
 
-1. Scroll down and click the **Merge pull request** button.
+1. 아래로 스크롤하여 **Merge pull request** 버튼을 클릭하세요.
 
-1. (Optional) Delete the `update-game` branch.
+1. (선택 사항) `update-game` 브랜치를 삭제하세요.
 
-1. With the pull request merged, Mona will check your progress and prepare a final review. Congrats, you are done! 🎉
+1. 풀 리퀘스트가 병합되면, Mona가 진행 상황을 확인하고 최종 리뷰를 준비합니다. 축하합니다, 완료입니다! 🎉
