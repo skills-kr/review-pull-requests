@@ -12,7 +12,7 @@ _병합하기 전에 다른 사람과 협업하여 작업을 다듬고 제안을
   - 다른 사람의 작업에 대한 리뷰를 제공하는 방법
   - 변경 사항을 제안하고 승인하는 방법
 - **만들 것**: 간단한 게임의 풀 리퀘스트를 리뷰합니다.
-- **사전 요구사항**: [GitHub 소개](https://github.com/skills/introduction-to-github) 실습의 내용을 숙지하고 있어야 합니다.
+- **사전 요구사항**: [GitHub 소개](https://github.com/skills-kr/introduction-to-github) 실습의 내용을 숙지하고 있어야 합니다.
   - 커밋(Commits)
   - 브랜치 및 풀 리퀘스트 생성
 - **소요 시간**: 30분 이내
