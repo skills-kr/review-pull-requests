@@ -43,9 +43,9 @@ _본인을 담당자로 지정했습니다! :tada:_
 
    - 변경 사항이 간단한 문구 조정임을 확인하세요.
 
-1. 비교 뷰 위에서 **Review changes** 버튼을 클릭하세요.
+1. 비교 뷰 위에서 **Submit review** 버튼을 클릭하세요.
 
-1. 다음 댓글을 입력하고 **Submit review** 버튼을 클릭하세요.
+1. 다음 댓글을 입력하고 **Comment** 옵션을 선택을 확인하고 **Submit review** 버튼을 클릭하세요.
 
    ```md
    Looks good to me. I think this is more intuitive. Nice work!
