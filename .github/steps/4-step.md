@@ -33,9 +33,9 @@ _풀 리퀘스트 리뷰를 잘 하셨습니다 :sparkles:_
 
 ### :keyboard: 실습: 제안된 변경 사항 적용하기
 
-1. 풀 리퀘스트에서 **Commits**를 클릭하세요.
+1. 풀 리퀘스트에서 **Conversation** 탭을 클릭하세요.
 
-1. **Commit suggestion** 버튼을 클릭하여 커밋 메시지 양식을 여세요.
+1. 방금 전 추가한 comment를 찾고, **Commit suggestion** 버튼을 클릭하여 커밋 메시지 양식을 여세요.
 
 1. 커밋 메시지를 아래 텍스트로 수정하고 **Commit changes** 버튼을 클릭하세요.
 
