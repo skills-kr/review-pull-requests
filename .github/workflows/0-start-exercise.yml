@@ -32,7 +32,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: 브랜치 및 풀 리퀘스트 준비
         run: |
@@ -65,12 +65,12 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           ref: main
 
       - name: 응답 템플릿 가져오기
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: skills-kr/exercise-toolkit
           path: exercise-toolkit
