@@ -22,7 +22,7 @@ _풀 리퀘스트 리뷰를 잘 하셨습니다 :sparkles:_
 
    <img width="300" alt="add-a-suggestion-button" src="https://raw.githubusercontent.com/skills-kr/review-pull-requests/main/.github/images/add-a-suggestion-button.png" />
 
-1. 제안을 아래와 같이 수정하고 **Add a single comment** 버튼을 클릭하세요.
+1. 제안을 아래와 같이 수정하고 **comment** 버튼을 클릭하세요.
 
    ````md
    ```suggestion
@@ -32,6 +32,8 @@ _풀 리퀘스트 리뷰를 잘 하셨습니다 :sparkles:_
    ````
 
 ### :keyboard: 실습: 제안된 변경 사항 적용하기
+
+1. 풀 리퀘스트에서 **Commits**를 클릭하세요.
 
 1. **Commit suggestion** 버튼을 클릭하여 커밋 메시지 양식을 여세요.
 

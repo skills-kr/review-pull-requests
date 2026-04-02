@@ -17,11 +17,13 @@ env:
 jobs:
   find_exercise:
     name: 실습 이슈 찾기
+    if: github.head_ref == 'update-game'
     uses: skills-kr/exercise-toolkit/.github/workflows/find-exercise-issue.yml@kr-v0.6.0
 
   post_next_step_content:
     name: 다음 단계 내용 게시
     needs: [find_exercise]
+    if: github.head_ref == 'update-game'
     runs-on: ubuntu-latest
     env:
       ISSUE_REPOSITORY: ${{ github.repository }}
