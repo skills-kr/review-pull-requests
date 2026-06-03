@@ -44,14 +44,14 @@ jobs:
           ref: kr-v0.6.0
 
       - name: 댓글 생성 - 단계 완료
-        uses: GrantBirki/comment@v2.1.1
+        uses: GrantBirki/comment@v3.0.0
         with:
           repository: ${{ env.ISSUE_REPOSITORY }}
           issue-number: ${{ env.ISSUE_NUMBER }}
           file: exercise-toolkit/markdown-templates/step-feedback/lesson-review.md
 
       - name: 댓글 생성 - 리뷰 내용 추가
-        uses: GrantBirki/comment@v2.1.1
+        uses: GrantBirki/comment@v3.0.0
         with:
           repository: ${{ env.ISSUE_REPOSITORY }}
           issue-number: ${{ env.ISSUE_NUMBER }}
